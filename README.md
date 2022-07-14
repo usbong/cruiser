@@ -2,8 +2,13 @@
 
 Reusable computer instructions
 
-### Objective: 
+### Objective
 increase know-how in 3-Dimensional (3D) movement techniques
+
+## References
+1) [Usbong Start3D](https://github.com/usbong/start3D)
+2) [Usbong SUGOD 3D: Auto-guided CAMERA movement](https://github.com/usbong/sugod3D)
+3) [Usbong Robot](https://github.com/usbong/robot)
 
 ## Open Source Software License
 
